@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Token-Grabber?color=%23daff00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Token-Grabber?color=%23daff00&label=Stars" alt="shield.png"></a>
 
-# THIS ONE IS NOT MAINTAINED ANYMORE, USE [Hazard-Token-Grabber-V2](https://github.com/Rdimo/Hazard-Token-Grabber-V2) INSTEAD
+## THIS ONE IS NOT MAINTAINED ANYMORE, USE [Hazard-Token-Grabber-V2](https://github.com/Rdimo/Hazard-Token-Grabber-V2) INSTEAD
 
 #### Hazard Token Grabber was made by
 Love ❌
