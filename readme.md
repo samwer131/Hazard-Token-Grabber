@@ -1,4 +1,7 @@
-# THIS IS NOT MAINTAINED ANYMORE, USE [Hazard-Token-Grabber-V2](https://github.com/Rdimo/Hazard-Token-Grabber-V2)
+<h2 align="center">
+  THIS IS NOT MAINTAINED ANYMORE, USE 
+  <a href="https://github.com/Rdimo/Hazard-Token-Grabber-V2">Hazard-Token-Grabber-V2</a>
+</h2>
 
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Token-Grabber?color=%23daff00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Token-Grabber?color=%23daff00&label=Stars" alt="shield.png"></a>
